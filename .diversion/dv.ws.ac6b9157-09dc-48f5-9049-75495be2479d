@@ -1,0 +1,16 @@
+{
+  "WorkspaceID": "dv.ws.ac6b9157-09dc-48f5-9049-75495be2479d",
+  "RepoID": "dv.repo.5a0aad59-aadb-4808-ba60-a826bba5be7a",
+  "Path": "C:\\Users\\Bruhyasherka\\Desktop\\MyProjects\\NTO",
+  "AccountID": "Google_105424984775767491828",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.37",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "NTO",
+  "PauseReason": "Unknown error [f94869]",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "EDUCATION"
+}
